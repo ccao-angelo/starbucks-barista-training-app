@@ -53,9 +53,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 * Study Mode (Flashcard)
 ![Image](https://github.com/user-attachments/assets/72a4ba63-43c8-4ebe-a074-a82b9ae8de0f)
-<img src='https://i.imgur.com/DI4kKVw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/DI4kKVw.gif' title='Study Mode Video Walkthrough' width='' alt='STUDY MODE Video Walkthrough' />
 * Play Mode (Wordle)
 ![Image](https://github.com/user-attachments/assets/abbe931c-1c18-4cee-8c93-96fc1598edf8)
+<img src='[https://i.imgur.com/DI4kKVw.gif](https://i.imgur.com/Cgs7eh1.gif)' title='Play Mode Video Walkthrough' width='' alt='PLAY MODE Video Walkthrough' />
 
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
